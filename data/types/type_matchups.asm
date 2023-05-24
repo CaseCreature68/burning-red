@@ -1,4 +1,4 @@
-ypeEffects:
+TypeEffects:
 	;  attacker,     defender,     *=
 	; Normal
 	db NORMAL,       ROCK,         NOT_VERY_EFFECTIVE
