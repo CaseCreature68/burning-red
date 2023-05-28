@@ -52,12 +52,6 @@ TypeEffects:
 	db GHOST,        GHOST,        SUPER_EFFECTIVE
 	db GHOST,        PSYCHIC_TYPE, SUPER_EFFECTIVE
 	db GHOST,        NORMAL,       NO_EFFECT
-	; Steel
-	db STEEL,        ROCK, 		   SUPER_EFFECTIVE
-	db STEEL,        ICE, 		   SUPER_EFFECTIVE
-	db STEEL,        FIRE, 		   NOT_VERY_EFFECTIVE
-	db STEEL,        WATER, 	   NOT_VERY_EFFECTIVE
-	db STEEL,        ELECTRIC, 	   NOT_VERY_EFFECTIVE
 	; Fire
 	db FIRE,         BUG,          SUPER_EFFECTIVE
 	db FIRE,         GRASS,        SUPER_EFFECTIVE
