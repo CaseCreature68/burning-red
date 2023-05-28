@@ -826,6 +826,9 @@ SaffronMart_Blocks:
 LavenderMart_Blocks:
 CeruleanMart_Blocks:
 VermilionMart_Blocks: INCBIN "maps/VermilionMart.blk"
+; Mateo's move relearner/deleter files
+INCLUDE "scripts/move_deleter.asm"
+INCLUDE "scripts/move_relearner.asm"
 
 CopycatsHouse2F_Blocks:
 RedsHouse2F_Blocks: INCBIN "maps/RedsHouse2F.blk"
