@@ -3,7 +3,7 @@
 	db  60,  90,  69,  100, 90
 	;   hp  atk  def  spd  spc
 
-	db POISON, DARK ; type
+	db POISON, POISON ; type
 	db 90 ; catch rate
 	db 147 ; base exp
 

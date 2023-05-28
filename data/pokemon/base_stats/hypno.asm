@@ -3,7 +3,7 @@
 	db  85,  73,  70,  67, 115
 	;   hp  atk  def  spd  spc
 
-	db PSYCHIC_TYPE, DARK ; type
+	db PSYCHIC_TYPE, GHOST ; type
 	db 75 ; catch rate
 	db 165 ; base exp
 
